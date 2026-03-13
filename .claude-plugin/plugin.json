@@ -1,0 +1,9 @@
+{
+  "name": "scene-partner",
+  "version": "0.1.0",
+  "description": "A turn-based roleplay and creative writing system with guided character creation, customizable writing style, and session management.",
+  "author": {
+    "name": "Vergil"
+  },
+  "keywords": ["roleplay", "creative-writing", "characters", "fiction", "storytelling"]
+}
